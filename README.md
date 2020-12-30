@@ -6,7 +6,7 @@ If you face an error, want to discuss this project or get support for it join [@
 ## Inspiration
 Enormous and huge credits to [@itayki](https://t.me/itayki) from Israel for being with me while
 waiting for Mr. [@TwitFace, AKA Andrew Lungers](https://t.me/TwitFace) to release [pytgcalls](https://github.com/pytgcalls/pytgcalls) to write this bot.
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/suprojects/VoiceChatPyroBot)
 ## Idea
 From Mr. [@TwitFace, AKA Andrew Lungers](https://t.me/TwitFace).
 
